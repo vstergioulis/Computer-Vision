@@ -1,4 +1,4 @@
-The amin goal of the project is to create a panorama of stitched images, using different blending techniques. The project though, focuses on the algorithms of image stitching, just as RANSAC, Homography Matrix estimation, etc.
+The main goal of the project is to create a panorama of stitched images, using different blending techniques. The project though, focuses on the algorithms of image stitching, just as RANSAC, Homography Matrix estimation, etc.
 
 
 In order to execute the python program we use the following:
